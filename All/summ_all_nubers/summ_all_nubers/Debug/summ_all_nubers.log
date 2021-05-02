@@ -1,0 +1,3 @@
+﻿  summ_all_nubers.cpp
+E:\qwerty\C++\summ_all_nubers\summ_all_nubers\summ_all_nubers.cpp(61,17): warning C4101: var: неиспользованная локальная переменная
+E:\qwerty\C++\summ_all_nubers\summ_all_nubers\summ_all_nubers.cpp(51): error C4700: использована неинициализированная локальная переменная "b"

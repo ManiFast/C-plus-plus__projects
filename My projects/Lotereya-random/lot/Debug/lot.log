@@ -1,0 +1,3 @@
+﻿  lot.cpp
+C:\Users\karak\OneDrive\Рабочий стол\qwerty\C++\lot\lot\lot.cpp(8,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lot.vcxproj -> C:\Users\karak\OneDrive\Рабочий стол\qwerty\C++\lot\Debug\lot.exe

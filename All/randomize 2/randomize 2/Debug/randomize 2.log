@@ -1,0 +1,3 @@
+﻿  randomize 2.cpp
+C:\Users\karak\OneDrive\Рабочий стол\qwerty\C++\randomize 2\randomize 2\randomize 2.cpp(8,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+LINK : fatal error LNK1168: не удается открыть C:\Users\karak\OneDrive\Рабочий стол\qwerty\C++\randomize 2\Debug\randomize 2.exe для записи

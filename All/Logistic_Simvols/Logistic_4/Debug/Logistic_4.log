@@ -1,0 +1,4 @@
+﻿  Logistic_4.cpp
+C:\Users\karak\OneDrive\Рабочий стол\qwerty\Logistic_4\Logistic_4\Logistic_4.cpp(28,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\karak\OneDrive\Рабочий стол\qwerty\Logistic_4\Logistic_4\Logistic_4.cpp(29,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Logistic_4.vcxproj -> C:\Users\karak\OneDrive\Рабочий стол\qwerty\Logistic_4\Debug\Logistic_4.exe

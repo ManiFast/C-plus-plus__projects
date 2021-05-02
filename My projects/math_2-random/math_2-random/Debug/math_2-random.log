@@ -1,0 +1,3 @@
+﻿  math_2-random.cpp
+C:\Users\karak\OneDrive\Рабочий стол\qwerty\C++\math_2-random\math_2-random\math_2-random.cpp(10,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  math_2-random.vcxproj -> C:\Users\karak\OneDrive\Рабочий стол\qwerty\C++\math_2-random\Debug\math_2-random.exe

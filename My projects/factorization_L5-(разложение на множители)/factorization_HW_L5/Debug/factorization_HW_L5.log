@@ -1,0 +1,21 @@
+﻿  factorization_HW_L5.cpp
+C:\Users\karak\OneDrive\Рабочий стол\qwerty\C++\factorization_HW_L5\factorization_HW_L5\factorization_HW_L5.cpp(25,7): warning C4244: аргумент: преобразование "int64_t" в "int", возможна потеря данных
+C:\Users\karak\OneDrive\Рабочий стол\qwerty\C++\factorization_HW_L5\factorization_HW_L5\factorization_HW_L5.cpp(56,11): warning C4244: =: преобразование "int64_t" в "int", возможна потеря данных
+C:\Users\karak\OneDrive\Рабочий стол\qwerty\C++\factorization_HW_L5\factorization_HW_L5\factorization_HW_L5.cpp(58,19): warning C4244: =: преобразование "int64_t" в "int", возможна потеря данных
+C:\Users\karak\OneDrive\Рабочий стол\qwerty\C++\factorization_HW_L5\factorization_HW_L5\factorization_HW_L5.cpp(59,20): warning C4244: =: преобразование "int64_t" в "int", возможна потеря данных
+C:\Users\karak\OneDrive\Рабочий стол\qwerty\C++\factorization_HW_L5\factorization_HW_L5\factorization_HW_L5.cpp(65,11): warning C4244: =: преобразование "int64_t" в "int", возможна потеря данных
+C:\Users\karak\OneDrive\Рабочий стол\qwerty\C++\factorization_HW_L5\factorization_HW_L5\factorization_HW_L5.cpp(67,19): warning C4244: =: преобразование "int64_t" в "int", возможна потеря данных
+C:\Users\karak\OneDrive\Рабочий стол\qwerty\C++\factorization_HW_L5\factorization_HW_L5\factorization_HW_L5.cpp(68,20): warning C4244: =: преобразование "int64_t" в "int", возможна потеря данных
+C:\Users\karak\OneDrive\Рабочий стол\qwerty\C++\factorization_HW_L5\factorization_HW_L5\factorization_HW_L5.cpp(74,11): warning C4244: =: преобразование "int64_t" в "int", возможна потеря данных
+C:\Users\karak\OneDrive\Рабочий стол\qwerty\C++\factorization_HW_L5\factorization_HW_L5\factorization_HW_L5.cpp(76,19): warning C4244: =: преобразование "int64_t" в "int", возможна потеря данных
+C:\Users\karak\OneDrive\Рабочий стол\qwerty\C++\factorization_HW_L5\factorization_HW_L5\factorization_HW_L5.cpp(77,20): warning C4244: =: преобразование "int64_t" в "int", возможна потеря данных
+C:\Users\karak\OneDrive\Рабочий стол\qwerty\C++\factorization_HW_L5\factorization_HW_L5\factorization_HW_L5.cpp(83,11): warning C4244: =: преобразование "int64_t" в "int", возможна потеря данных
+C:\Users\karak\OneDrive\Рабочий стол\qwerty\C++\factorization_HW_L5\factorization_HW_L5\factorization_HW_L5.cpp(85,19): warning C4244: =: преобразование "int64_t" в "int", возможна потеря данных
+C:\Users\karak\OneDrive\Рабочий стол\qwerty\C++\factorization_HW_L5\factorization_HW_L5\factorization_HW_L5.cpp(86,20): warning C4244: =: преобразование "int64_t" в "int", возможна потеря данных
+C:\Users\karak\OneDrive\Рабочий стол\qwerty\C++\factorization_HW_L5\factorization_HW_L5\factorization_HW_L5.cpp(92,11): warning C4244: =: преобразование "int64_t" в "int", возможна потеря данных
+C:\Users\karak\OneDrive\Рабочий стол\qwerty\C++\factorization_HW_L5\factorization_HW_L5\factorization_HW_L5.cpp(94,19): warning C4244: =: преобразование "int64_t" в "int", возможна потеря данных
+C:\Users\karak\OneDrive\Рабочий стол\qwerty\C++\factorization_HW_L5\factorization_HW_L5\factorization_HW_L5.cpp(95,20): warning C4244: =: преобразование "int64_t" в "int", возможна потеря данных
+C:\Users\karak\OneDrive\Рабочий стол\qwerty\C++\factorization_HW_L5\factorization_HW_L5\factorization_HW_L5.cpp(107,12): warning C4244: =: преобразование "int64_t" в "int", возможна потеря данных
+C:\Users\karak\OneDrive\Рабочий стол\qwerty\C++\factorization_HW_L5\factorization_HW_L5\factorization_HW_L5.cpp(109,20): warning C4244: =: преобразование "int64_t" в "int", возможна потеря данных
+C:\Users\karak\OneDrive\Рабочий стол\qwerty\C++\factorization_HW_L5\factorization_HW_L5\factorization_HW_L5.cpp(110,21): warning C4244: =: преобразование "int64_t" в "int", возможна потеря данных
+  factorization_HW_L5.vcxproj -> C:\Users\karak\OneDrive\Рабочий стол\qwerty\C++\factorization_HW_L5\Debug\factorization_HW_L5.exe
